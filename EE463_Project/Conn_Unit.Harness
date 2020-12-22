@@ -1,0 +1,4 @@
+Battery_In=Battery_Pos,Battery_Neg
+ICSP_Conn=MCLR,ICSPDAT,ICSPCLK
+Mot_Conn=Phase_A,Phase_B,Phase_C
+Power_Conv=Battery_Pos

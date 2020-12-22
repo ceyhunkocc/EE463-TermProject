@@ -1,3 +1,4 @@
 Battery_In=Battery_Pos,Battery_Neg
 DRV_In=PWM_H,PWM_L
 Rec_Buck=Buck_Pos
+Shunt_Iso=Battery_Neg

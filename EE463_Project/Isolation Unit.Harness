@@ -1,3 +1,4 @@
 DIG_ISO_IN=ISO_PWM_H,ISO_PWM_L
 DRV_In=PWM_H,PWM_L
 PIC_AN_IN=ADC_H,ADC_L
+Shunt_Iso=Battery_Neg
