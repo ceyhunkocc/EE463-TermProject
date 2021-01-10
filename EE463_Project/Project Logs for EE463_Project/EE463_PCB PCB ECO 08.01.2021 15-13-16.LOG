@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GATE_H Pin=*-1
+Removed Pin From Net: NetName=Buck_Pos Pin=*-2
+Removed Pin From Net: NetName=GATE_L Pin=*?-1
+Removed Pin From Net: NetName=MOT_GND Pin=*?-3
+Removed Member From Class: ClassName=S2 Member=*?
+Removed Member From Class: ClassName=S2 Member=*
+Added Component: Designator=M1(FDD5N50NZ)
+Added Component: Designator=M2(FDD5N50NZ)
+Added Pin To Net: NetName=GATE_H Pin=M1-1
+Added Pin To Net: NetName=Buck_Pos Pin=M1-2
+Added Pin To Net: NetName=GATE_L Pin=M2-1
+Added Pin To Net: NetName=MOT_GND Pin=M2-3
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=NetM1_3 Pin=M2-2
+Added Pin To Net: NetName=NetM1_3 Pin=IND1-1
+Added Net: Name=NetM1_3
+Added Member To Class: ClassName=S2 Member=Component M1 M?
+Added Member To Class: ClassName=S2 Member=Component M2 M?

@@ -1,0 +1,245 @@
+Added Component: Designator=*?(FDD5N50NZ)
+Added Component: Designator=*(FDD5N50NZ)
+Added Component: Designator=C1(EKXL401ELL101MM25S)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(860020572003)
+Add component (AddParameter): Name = "Parameter 1"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "330nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "330nF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(0603_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=CONN1(kle3)
+Added Component: Designator=CONN2(kle2)
+Added Component: Designator=D1(S2GTR)
+Added Component: Designator=D2(S2GTR)
+Added Component: Designator=D3(S2GTR)
+Added Component: Designator=D4(S2GTR)
+Added Component: Designator=D5(S2GTR)
+Added Component: Designator=D6(S2GTR)
+Added Component: Designator=D7(S2GTR)
+Added Component: Designator=IC1(PIC16F1613)
+Added Component: Designator=IC2(SI8920BC-IP)
+Added Component: Designator=IC3(SI8620AB)
+Added Component: Designator=IC4(BS2103F)
+Added Component: Designator=IC5(UA7812CKCS)
+Added Component: Designator=IC6(UA78M33CKVURG3)
+Added Component: Designator=IC7(R1SX_3333)
+Added Component: Designator=IND1(IND)
+Added Component: Designator=R1(RES_0402)
+Add component (AddParameter): Name = "Parameter 1"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "20"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "20"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "5K6"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "5K6"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "20"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "20"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C10-2
+Added Pin To Net: NetName=3V3 Pin=C18-2
+Added Pin To Net: NetName=3V3 Pin=C19-1
+Added Pin To Net: NetName=3V3 Pin=IC2-1
+Added Pin To Net: NetName=3V3 Pin=IC3-8
+Added Pin To Net: NetName=3V3 Pin=IC6-3
+Added Pin To Net: NetName=3V3 Pin=IC7-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=12V Pin=C13-2
+Added Pin To Net: NetName=12V Pin=C14-2
+Added Pin To Net: NetName=12V Pin=C16-1
+Added Pin To Net: NetName=12V Pin=D7-1
+Added Pin To Net: NetName=12V Pin=IC4-3
+Added Pin To Net: NetName=12V Pin=IC5-3
+Added Net: Name=12V
+Added Pin To Net: NetName=ADC_H Pin=C11-2
+Added Pin To Net: NetName=ADC_H Pin=R8-2
+Added Pin To Net: NetName=ADC_H Pin=IC1-10
+Added Net: Name=ADC_H
+Added Pin To Net: NetName=ADC_L Pin=C11-1
+Added Pin To Net: NetName=ADC_L Pin=R9-2
+Added Pin To Net: NetName=ADC_L Pin=IC1-9
+Added Net: Name=ADC_L
+Added Pin To Net: NetName=Battery_Neg Pin=CONN2-2
+Added Pin To Net: NetName=Battery_Neg Pin=R1-1
+Added Pin To Net: NetName=Battery_Neg Pin=R6-1
+Added Net: Name=Battery_Neg
+Added Pin To Net: NetName=Battery_Pos Pin=C2-1
+Added Pin To Net: NetName=Battery_Pos Pin=C12-1
+Added Pin To Net: NetName=Battery_Pos Pin=C15-2
+Added Pin To Net: NetName=Battery_Pos Pin=C17-2
+Added Pin To Net: NetName=Battery_Pos Pin=CONN2-1
+Added Pin To Net: NetName=Battery_Pos Pin=IC4-6
+Added Pin To Net: NetName=Battery_Pos Pin=IC5-1
+Added Pin To Net: NetName=Battery_Pos Pin=IC6-1
+Added Pin To Net: NetName=Battery_Pos Pin=IND1-2
+Added Net: Name=Battery_Pos
+Added Pin To Net: NetName=Buck_Pos Pin=*-2
+Added Pin To Net: NetName=Buck_Pos Pin=C1-1
+Added Pin To Net: NetName=Buck_Pos Pin=D1-2
+Added Pin To Net: NetName=Buck_Pos Pin=D2-2
+Added Pin To Net: NetName=Buck_Pos Pin=D3-2
+Added Net: Name=Buck_Pos
+Added Pin To Net: NetName=GATE_H Pin=*-1
+Added Pin To Net: NetName=GATE_H Pin=R11-1
+Added Net: Name=GATE_H
+Added Pin To Net: NetName=GATE_L Pin=*?-1
+Added Pin To Net: NetName=GATE_L Pin=R10-1
+Added Net: Name=GATE_L
+Added Pin To Net: NetName=ICSPCLK Pin=IC1-12
+Added Net: Name=ICSPCLK
+Added Pin To Net: NetName=ICSPDAT Pin=IC1-13
+Added Net: Name=ICSPDAT
+Added Pin To Net: NetName=ISO_3V3 Pin=C3-2
+Added Pin To Net: NetName=ISO_3V3 Pin=C4-1
+Added Pin To Net: NetName=ISO_3V3 Pin=C7-1
+Added Pin To Net: NetName=ISO_3V3 Pin=C9-1
+Added Pin To Net: NetName=ISO_3V3 Pin=R2-1
+Added Pin To Net: NetName=ISO_3V3 Pin=IC1-1
+Added Pin To Net: NetName=ISO_3V3 Pin=IC2-8
+Added Pin To Net: NetName=ISO_3V3 Pin=IC3-1
+Added Pin To Net: NetName=ISO_3V3 Pin=IC7-5
+Added Net: Name=ISO_3V3
+Added Pin To Net: NetName=ISO_GND Pin=C3-1
+Added Pin To Net: NetName=ISO_GND Pin=C4-2
+Added Pin To Net: NetName=ISO_GND Pin=C5-1
+Added Pin To Net: NetName=ISO_GND Pin=C7-2
+Added Pin To Net: NetName=ISO_GND Pin=C9-2
+Added Pin To Net: NetName=ISO_GND Pin=R4-1
+Added Pin To Net: NetName=ISO_GND Pin=R5-1
+Added Pin To Net: NetName=ISO_GND Pin=IC1-14
+Added Pin To Net: NetName=ISO_GND Pin=IC2-5
+Added Pin To Net: NetName=ISO_GND Pin=IC3-4
+Added Pin To Net: NetName=ISO_GND Pin=IC7-4
+Added Net: Name=ISO_GND
+Added Pin To Net: NetName=ISO_PWM_H Pin=R4-2
+Added Pin To Net: NetName=ISO_PWM_H Pin=IC1-6
+Added Pin To Net: NetName=ISO_PWM_H Pin=IC3-2
+Added Net: Name=ISO_PWM_H
+Added Pin To Net: NetName=ISO_PWM_L Pin=R5-2
+Added Pin To Net: NetName=ISO_PWM_L Pin=IC1-7
+Added Pin To Net: NetName=ISO_PWM_L Pin=IC3-3
+Added Net: Name=ISO_PWM_L
+Added Pin To Net: NetName=MCLR Pin=C5-2
+Added Pin To Net: NetName=MCLR Pin=R2-2
+Added Pin To Net: NetName=MCLR Pin=R3-1
+Added Net: Name=MCLR
+Added Pin To Net: NetName=MOT_GND Pin=*?-3
+Added Pin To Net: NetName=MOT_GND Pin=C1-2
+Added Pin To Net: NetName=MOT_GND Pin=C2-2
+Added Pin To Net: NetName=MOT_GND Pin=C6-1
+Added Pin To Net: NetName=MOT_GND Pin=C8-1
+Added Pin To Net: NetName=MOT_GND Pin=C10-1
+Added Pin To Net: NetName=MOT_GND Pin=C13-1
+Added Pin To Net: NetName=MOT_GND Pin=C14-1
+Added Pin To Net: NetName=MOT_GND Pin=C15-1
+Added Pin To Net: NetName=MOT_GND Pin=C16-2
+Added Pin To Net: NetName=MOT_GND Pin=C17-1
+Added Pin To Net: NetName=MOT_GND Pin=C18-1
+Added Pin To Net: NetName=MOT_GND Pin=C19-2
+Added Pin To Net: NetName=MOT_GND Pin=D4-1
+Added Pin To Net: NetName=MOT_GND Pin=D5-1
+Added Pin To Net: NetName=MOT_GND Pin=D6-1
+Added Pin To Net: NetName=MOT_GND Pin=R1-2
+Added Pin To Net: NetName=MOT_GND Pin=R7-1
+Added Pin To Net: NetName=MOT_GND Pin=R7-2
+Added Pin To Net: NetName=MOT_GND Pin=IC2-3
+Added Pin To Net: NetName=MOT_GND Pin=IC2-4
+Added Pin To Net: NetName=MOT_GND Pin=IC3-5
+Added Pin To Net: NetName=MOT_GND Pin=IC4-4
+Added Pin To Net: NetName=MOT_GND Pin=IC5-2
+Added Pin To Net: NetName=MOT_GND Pin=IC6-2
+Added Pin To Net: NetName=MOT_GND Pin=IC7-1
+Added Net: Name=MOT_GND
+Added Pin To Net: NetName=Net*?_2 Pin=*-3
+Added Pin To Net: NetName=Net*?_2 Pin=*?-2
+Added Pin To Net: NetName=Net*?_2 Pin=IND1-1
+Added Net: Name=Net*?_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R6-2
+Added Pin To Net: NetName=NetC8_2 Pin=IC2-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=D7-2
+Added Pin To Net: NetName=NetC12_2 Pin=IC4-8
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=IC1-4
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=IC2-7
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=IC2-6
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=IC4-5
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=IC4-7
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=Phase_A Pin=CONN1-1
+Added Pin To Net: NetName=Phase_A Pin=D1-1
+Added Pin To Net: NetName=Phase_A Pin=D4-2
+Added Net: Name=Phase_A
+Added Pin To Net: NetName=Phase_B Pin=CONN1-2
+Added Pin To Net: NetName=Phase_B Pin=D2-1
+Added Pin To Net: NetName=Phase_B Pin=D5-2
+Added Net: Name=Phase_B
+Added Pin To Net: NetName=Phase_C Pin=CONN1-3
+Added Pin To Net: NetName=Phase_C Pin=D3-1
+Added Pin To Net: NetName=Phase_C Pin=D6-2
+Added Net: Name=Phase_C
+Added Pin To Net: NetName=PWM_H Pin=IC3-7
+Added Pin To Net: NetName=PWM_H Pin=IC4-2
+Added Net: Name=PWM_H
+Added Pin To Net: NetName=PWM_L Pin=IC3-6
+Added Pin To Net: NetName=PWM_L Pin=IC4-1
+Added Net: Name=PWM_L
+Added Class: Name=S1
+Added Class: Name=S2
+Added Class: Name=S3
+Added Class: Name=S4
+Added Class: Name=S5
+Added Class: Name=S6

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C2 Old Footprint=860020572003 New Footprint=860020573008
+Change Component Footprint: Designator=IND1 Old Footprint=IND New Footprint=AIRD
+Change Component Comment : Designator=C2 Old Comment=CAP 10uF 860020572003 New Comment=CAP 100uF 860020573008
+Change Component Comment : Designator=IND1 Old Comment=IND, 5mH, B82615B2202M001 New Comment=IND, 1mH, B82615B2202M001
+Change component parameters: Designator = "C2" ("C2"); Footprint = "860020572003"; UniqueID = "\HVVXJZAO\ZBLJZDJW" ("\HVVXJZAO\ZBLJZDJW")
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = "100uF"; VariantName = "[No Variations]"
