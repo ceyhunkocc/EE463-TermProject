@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ISO_3V3 Pin=P1-1
+Removed Pin From Net: NetName=MCLR Pin=P1-3
+Removed Pin From Net: NetName=ICSPDAT Pin=P1-5
+Removed Pin From Net: NetName=ICSPCLK Pin=P1-6
+Added Pin To Net: NetName=MCLR Pin=P1-1
+Added Pin To Net: NetName=ISO_3V3 Pin=P1-3
+Added Pin To Net: NetName=ICSPCLK Pin=P1-5
+Added Pin To Net: NetName=ICSPDAT Pin=P1-6

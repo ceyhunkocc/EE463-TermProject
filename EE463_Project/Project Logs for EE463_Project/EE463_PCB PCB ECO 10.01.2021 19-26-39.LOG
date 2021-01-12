@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ISO_GND Pin=P1-2
+Removed Pin From Net: NetName=ISO_3V3 Pin=P1-3
+Removed Pin From Net: NetName=ICSPCLK Pin=P1-5
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X3 New Footprint=H3X2
+Change Component Comment : Designator=P1 Old Comment=Header 3X2 New Comment=H3X2
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HDR2X3"; UniqueID = "\IDNBLTRN\TYNZDFYP" ("\IDNBLTRN\TYNZDFYP")
+Added Pin To Net: NetName=ISO_3V3 Pin=P1-2
+Added Pin To Net: NetName=ICSPCLK Pin=P1-3
+Added Pin To Net: NetName=ISO_GND Pin=P1-4

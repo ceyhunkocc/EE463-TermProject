@@ -1,0 +1,60 @@
+Added Component: Designator=R12(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0603_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOT_GND Pin=R12-1
+Added Pin To Net: NetName=GATE_L Pin=R12-2
+Added Pin To Net: NetName=MOT_GND Pin=R13-1
+Added Pin To Net: NetName=GATE_H Pin=R13-2
+Added Member To Class: ClassName=S1 Member=Component C1 CAP 100uf EKXL401ELL101MM25S
+Added Member To Class: ClassName=S2 Member=Component C2 CAP 100uF 860020573008
+Added Member To Class: ClassName=S6 Member=Component C3 CAP 10nF
+Added Member To Class: ClassName=S6 Member=Component C4 CAP 100nF
+Added Member To Class: ClassName=S6 Member=Component C5 CAP 100nF
+Added Member To Class: ClassName=S4 Member=Component C6 CAP 100nF
+Added Member To Class: ClassName=S4 Member=Component C7 CAP 100nF
+Added Member To Class: ClassName=S4 Member=Component C8 CAP 10nF
+Added Member To Class: ClassName=S4 Member=Component C9 CAP 100nF
+Added Member To Class: ClassName=S4 Member=Component C10 CAP 100nF
+Added Member To Class: ClassName=S4 Member=Component C11 CAP 1uF
+Added Member To Class: ClassName=S2 Member=Component C12 CAP 1uF
+Added Member To Class: ClassName=S2 Member=Component C13 CAP 1uF
+Added Member To Class: ClassName=S2 Member=Component C14 CAP 1uF
+Added Member To Class: ClassName=S3 Member=Component C15 CAP 330nF
+Added Member To Class: ClassName=S3 Member=Component C16 CAP 100nF
+Added Member To Class: ClassName=S3 Member=Component C17 CAP 330nF
+Added Member To Class: ClassName=S3 Member=Component C18 CAP 100nF
+Added Member To Class: ClassName=S3 Member=Component C19 CAP  22uF
+Added Member To Class: ClassName=S5 Member=Component CONN1 CONN KLE3
+Added Member To Class: ClassName=S5 Member=Component CONN2 CONN KLE2
+Added Member To Class: ClassName=S1 Member=Component D1 DI S2GTR
+Added Member To Class: ClassName=S1 Member=Component D2 DI S2GTR
+Added Member To Class: ClassName=S1 Member=Component D3 DI S2GTR
+Added Member To Class: ClassName=S1 Member=Component D4 DI S2GTR
+Added Member To Class: ClassName=S1 Member=Component D5 DI S2GTR
+Added Member To Class: ClassName=S1 Member=Component D6 DI S2GTR
+Added Member To Class: ClassName=S2 Member=Component D7 DI S2GTR
+Added Member To Class: ClassName=S6 Member=Component IC1 PIC16F1614
+Added Member To Class: ClassName=S4 Member=Component IC2 SI8920BC
+Added Member To Class: ClassName=S4 Member=Component IC3 SI8620AB
+Added Member To Class: ClassName=S2 Member=Component IC4 BS2103F
+Added Member To Class: ClassName=S3 Member=Component IC5 UA7812CKCS
+Added Member To Class: ClassName=S3 Member=Component IC6 UA78M33CKVURG3
+Added Member To Class: ClassName=S3 Member=Component IC7 R1SX-3333
+Added Member To Class: ClassName=S2 Member=Component IND1 IND, 1mH, B82615B2202M001
+Added Member To Class: ClassName=S2 Member=Component M1 M?
+Added Member To Class: ClassName=S2 Member=Component M2 M?
+Added Member To Class: ClassName=S5 Member=Component P1 Header 3X2
+Added Member To Class: ClassName=S2 Member=Component R1 RES, 0.01, 0402, Shunt
+Added Member To Class: ClassName=S6 Member=Component R2 RES, 10K, 0603
+Added Member To Class: ClassName=S6 Member=Component R3 RES, 4K7, 0603
+Added Member To Class: ClassName=S6 Member=Component R4 RES, 1K, 0603
+Added Member To Class: ClassName=S6 Member=Component R5 RES, 1K, 0603
+Added Member To Class: ClassName=S4 Member=Component R6 RES, 20, 0603
+Added Member To Class: ClassName=S4 Member=Component R7 RES, 20, 0603
+Added Member To Class: ClassName=S4 Member=Component R8 RES, 5K6, 0603
+Added Member To Class: ClassName=S4 Member=Component R9 RES, 5K6, 0603
+Added Member To Class: ClassName=S2 Member=Component R10 RES, 20, 0603
+Added Member To Class: ClassName=S2 Member=Component R11 RES, 20, 0603
+Added Member To Class: ClassName=S2 Member=Component R12 RES, 10K, 0603
+Added Member To Class: ClassName=S2 Member=Component R13 RES, 10K, 0603
