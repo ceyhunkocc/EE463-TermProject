@@ -1,0 +1,7 @@
+Added Component: Designator=P1(H3X2)
+Added Pin To Net: NetName=MCLR Pin=P1-1
+Added Pin To Net: NetName=ISO_GND Pin=P1-2
+Added Pin To Net: NetName=ISO_3V3 Pin=P1-3
+Added Pin To Net: NetName=ICSPCLK Pin=P1-5
+Added Pin To Net: NetName=ICSPDAT Pin=P1-6
+Added Member To Class: ClassName=S5 Member=Component P1 H3X2
